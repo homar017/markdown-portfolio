@@ -1,3 +1,3 @@
-eating
-sleeping
-playing mario kart
+* -eating
+* -sleeping
+* -playing mario kart
